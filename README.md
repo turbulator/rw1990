@@ -1,4 +1,6 @@
 # rw1990
+Command line tool for read and write dallas-like Touch Memory keys
+
 
 http://www.maximintegrated.com/en/products/ibutton/software/1wire/wirekit.cfm
 
